@@ -1,4 +1,4 @@
-# Herramienta DNSPerft dockerizada
+# Herramienta DNSPerft dockerizada v2
 
 ## Documentacion
 
